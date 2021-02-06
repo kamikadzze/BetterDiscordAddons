@@ -8,7 +8,7 @@
  * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
  * @updateUrl https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/ShowHiddenChannels/ShowHiddenChannels.plugin.js
  */
-
+//kamikadzze
 module.exports = (_ => {
 	const config = {
 		"info": {
